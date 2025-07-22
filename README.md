@@ -16,6 +16,8 @@ ___
 - [Contributing](#contributing)
 ___
 
+## GIF
+
 Below is an example of the trained AlphaZero AI playing Tic Tac Toe against itself.
 
 ![tictactoe](https://github.com/user-attachments/assets/5adeb499-7eac-4f96-bd4b-0683ee6d145f)
@@ -106,7 +108,7 @@ AlphaZero/
 
 ___
 
-## Contribution 
+## Contributing
 
 Contributions are welcome!
 
